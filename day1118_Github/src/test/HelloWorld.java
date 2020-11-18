@@ -6,6 +6,9 @@ public class HelloWorld {
 		System.out.println("hello world!!!");
 	}
 	
+	/**
+	 * sayhi的方法
+	 */
 	public void sayhi(){
 		System.out.println("sayhi的方法....!");
 	}
