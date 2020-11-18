@@ -23,4 +23,9 @@ public class HelloWorld {
 	public void fun1(){
 		System.out.println("8889999");
 	}
+	
+	public void fun1(){
+		System.out.println("库中修改");
+	}	
+		
 }
