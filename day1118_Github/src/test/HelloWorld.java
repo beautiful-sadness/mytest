@@ -23,7 +23,10 @@ public class HelloWorld {
 	public void fun1(){
 		System.out.println("8889999");
 	}
-	
+
+	/**
+	 * 单元测试2
+	 */
 	public void fun2(){
 		System.out.println("库中修改");
 	}	
